@@ -1,0 +1,5 @@
+1 Which of the following is the correct syntax to declare a pointer in C++?
+2 What is a correct way to create an infinite loop in C++?
+3 Which header file is required for using std::vector in C++?
+5 What is the default access specifier for members of a class in C++?
+6 What is the purpose of the virtual keyword in C++?
